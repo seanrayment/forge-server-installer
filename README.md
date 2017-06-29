@@ -8,9 +8,9 @@
 4. A minecraft forge window will open. Make sure you have "install client" selected.
 5. Click "Ok" to install minecaft forge.
 6. Now you just need the mods, double click the file that ends in .command in the folder that you downloaded.
-7. You are all set. Open minecraft and select the forge profile to play on the modded server.
+7. You are all set. Open minecraft and select the forge 1.10.2 profile to play on the modded server.
 
 ### Windows Instructions
-Follow everything up to step 6. You need to manually copy in the mods yourself. Drag the downloaded folder called "mods" into the folder "C:\Users\<user>\%AppData%\Roaming\.minecraft". Now you should be all set to play minecraft on the forge profile.
+Follow everything up to step 6. You need to manually copy in the mods yourself. Drag the downloaded folder called "mods" into the folder "C:\Users\<user>\%AppData%\Roaming\.minecraft". Make sure to replace any preexisting mods folder. Now you should be all set to play minecraft on the forge 1.10.2 profile.
 
 _Note: You may need to search in the start menu for the %AppData% folder. It is hidden by default_
